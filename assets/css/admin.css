@@ -1,0 +1,152 @@
+.smac-settings-wrap{
+	padding: 10px 0;
+}
+
+.smac-settings-header{
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	margin: 0 0 20px;
+	padding: 0 0 20px;
+}
+
+.smac-settings-logo{
+	display: block;
+	width: 120px;
+	height: auto;
+	margin: 0 0 10px;
+}
+
+h1.smac-settings-title{
+	font-size: 2rem;
+	font-weight: 500;
+	line-height: 1.2;
+	margin: 0;
+	padding: 0;
+}
+
+.smac-form .form-table,
+.smac-form .form-table tbody,
+.smac-form .form-table tr,
+.smac-form .form-table th,
+.smac-form .form-table td{
+	display: block;
+	width: auto;
+	margin: 0;
+	padding: 0;
+}
+
+.smac-form{
+	position: relative;
+}
+
+.smac-form.smac-loading{
+	-webkit-opacity: 0.7;
+	-moz-opacity: 0.7;
+	opacity: 0.7;
+}
+
+.smac-form.smac-loading:after{
+	content: "";
+	position: absolute;
+	z-index: 200;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.smac-form .form-table{
+	width: 400px;
+	max-width: 100%;
+}
+
+.smac-form .form-table tr{
+	margin-bottom: 20px;
+}
+
+.smac-form label{
+	display: block;
+	font-weight: 400;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+
+.smac-form .smac-form-control{
+	width: 100%;
+	height: 38px;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.3;
+	color: #495057;
+	background-color: #fff;
+	border: 1px solid #ced4da;
+}
+
+.smac-form textarea.smac-form-control{
+	height: 100px;
+	min-height: 100px;
+	resize: vertical;
+}
+
+.smac-form-message{
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	margin: 0;
+	padding: 1px 12px;
+}
+
+body:not(.rtl) .smac-form-message{
+	border-left-width: 4px;
+}
+
+body:not(.rtl) .smac-form-message.info{
+	border-left-color: #72aee6;
+}
+
+body:not(.rtl) .smac-form-message.success{
+	border-left-color: #00a32a;
+}
+
+body:not(.rtl) .smac-form-message.error{
+	border-left-color: #d63638;
+}
+
+body.rtl .smac-form-message{
+	border-right-width: 4px;
+}
+
+body.rtl .smac-form-message.info{
+	border-right-color: #72aee6;
+}
+
+body.rtl .smac-form-message.success{
+	border-right-color: #00a32a;
+}
+
+body.rtl .smac-form-message.error{
+	border-right-color: #d63638;
+}
+
+.smac-form-message p{
+	margin: 0.5em 0 !important;
+	padding: 2px !important;
+}
+
+.smac-form-message ul,
+.smac-form-message ol{
+	margin: 0 !important;
+}
+
+.smac-form-message ul ul{
+	list-style-type: disc;
+	margin-left: 20px;
+}
+
+.smac-form-message ul ul li{
+	margin-bottom: 0;
+}
+
+.rtl .smac-form-message ul ul{
+	margin-left: 0;
+	margin-right: 20px;
+}

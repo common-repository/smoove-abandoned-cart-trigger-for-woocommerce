@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smoove abandoned cart trigger for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-28 11:50+0000\n"
+"PO-Revision-Date: 2023-06-05 17:37+0000\n"
+"Last-Translator: Dima\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smac"
+
+#: smoove-abandoned-cart-trigger-for-woocommerce.php:45
+#, php-format
+msgid "%s requires %s to be installed and active."
+msgstr "התוסף %s דורש להתקין ולהפעיל את %s."
+
+#: inc/post-types.php:16
+msgctxt "Abandoned Cart"
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/settings.php:67
+msgid "Abandoned Cart Interval (mins)"
+msgstr "מרווח זמן של עגלה נטושה (דקות)"
+
+#: inc/post-types.php:21
+msgid "Abandoned Carts"
+msgstr "עגלות נטושות"
+
+#: inc/admin/lists.php:28
+msgid "Abandonment Date & Time"
+msgstr "תאריך ושעת נטישה"
+
+#: inc/admin/settings.php:140
+msgid "Add Email/SMS communication consent field on checkout"
+msgstr "הוסף שדה אישור דיוור באימייל או סמס בעמוד הצ'קאוט"
+
+#: inc/post-types.php:17
+msgid "Add New Abandoned Cart"
+msgstr ""
+
+#: inc/post-types.php:15
+msgctxt "add new on admin bar"
+msgid "Abandoned Cart"
+msgstr "עגלה נטושה"
+
+#: inc/post-types.php:59
+msgctxt "add new on admin bar"
+msgid "Temp Cart"
+msgstr ""
+
+#: inc/post-types.php:61
+msgid "Add New Temp Cart"
+msgstr ""
+
+#: inc/post-types.php:14
+msgctxt "admin menu"
+msgid "Abandoned Carts"
+msgstr "עגלות נטושות"
+
+#: inc/post-types.php:58
+msgctxt "admin menu"
+msgid "Temp Carts"
+msgstr "עגלות זמניות"
+
+#: inc/admin/lists.php:33 inc/admin/settings.php:53
+msgid "API Key"
+msgstr "מפתח API"
+
+#: inc/api.php:60
+msgid "API test failed."
+msgstr "בדיקת API נכשלה."
+
+#: inc/helpers/smoove.php:82
+#, php-format
+msgid "Cart sent to Smoove (%s)"
+msgstr ""
+
+#: inc/admin/settings.php:293
+msgid "Contact Email"
+msgstr "אימייל האיש קשר"
+
+#: inc/admin/lists.php:27
+msgid "Contact Name"
+msgstr "שם האיש קשר"
+
+#: inc/admin/settings.php:121
+msgid "Deleted contact action"
+msgstr "פעולה עבור איש קשר שנמצא בסל מחזור"
+
+#: inc/admin/settings.php:113 inc/admin/settings.php:132
+msgid "Don't process"
+msgstr "לא לשחזר"
+
+#: inc/post-types.php:19
+msgid "Edit Abandoned Cart"
+msgstr "ערוך עגלה נטושה"
+
+#: inc/post-types.php:63
+msgid "Edit Temp Cart"
+msgstr "ערוך עגלה זמנית"
+
+#: inc/admin/lists.php:25
+msgid "Email"
+msgstr "אימייל"
+
+#: inc/api.php:108
+msgid "Email is not valid."
+msgstr "כתובת האימייל אינה תקינה."
+
+#: inc/admin/settings.php:174
+msgid "Email/SMS communication consent field label"
+msgstr "טקסט שדה אישור דיוור באימייל או סמס"
+
+#. Author URI of the plugin
+msgid "https://www.smoove.io"
+msgstr ""
+
+#: inc/admin/settings.php:182
+msgid "I consent to receiving marketing messages"
+msgstr "אני מרשה לשלוח לי הודעות שיווקיות"
+
+#: inc/post-types.php:18
+msgid "New Abandoned Cart"
+msgstr ""
+
+#: inc/post-types.php:62
+msgid "New Temp Cart"
+msgstr ""
+
+#: inc/admin/lists.php:116 inc/admin/settings.php:151
+msgid "No"
+msgstr "לא"
+
+#: inc/post-types.php:25
+msgid "No Abandoned Carts found in Trash."
+msgstr ""
+
+#: inc/post-types.php:24
+msgid "No Abandoned Carts found."
+msgstr "לא נמצאו עגלות נטושות"
+
+#: inc/post-types.php:69
+msgid "No Temp Carts found in Trash."
+msgstr ""
+
+#: inc/post-types.php:68
+msgid "No Temp Carts found."
+msgstr "לא נמצאו עגלות זמניות"
+
+#: inc/admin/lists.php:31
+msgid "Order ID"
+msgstr "מספר הזמנה"
+
+#: inc/post-types.php:23
+msgid "Parent Abandoned Carts:"
+msgstr ""
+
+#: inc/post-types.php:67
+msgid "Parent Temp Carts:"
+msgstr ""
+
+#: inc/admin/lists.php:26
+msgid "Phone"
+msgstr "טלפון"
+
+#: inc/admin/setup.php:18
+msgid "Please insert valid email."
+msgstr "נא להזין כתובת אימייל תקינה."
+
+#: inc/admin/settings.php:27 inc/admin/settings.php:28
+msgid "Plugin Test"
+msgstr "בדיקת התוסף"
+
+#: inc/post-types.php:12
+msgctxt "post type general name"
+msgid "Abandoned Carts"
+msgstr "עגלות נטושות"
+
+#: inc/post-types.php:56
+msgctxt "post type general name"
+msgid "Temp Carts"
+msgstr "עגלות זמניות"
+
+#: inc/post-types.php:13
+msgctxt "post type singular name"
+msgid "Abandoned Cart"
+msgstr "עגלה נטושה"
+
+#: inc/post-types.php:57
+msgctxt "post type singular name"
+msgid "Temp Cart"
+msgstr "עגלה זמנית"
+
+#: inc/admin/lists.php:32
+msgid "Products"
+msgstr "מוצרים"
+
+#. Description of the plugin
+msgid ""
+"Recover abandoned carts in your Woo store by transmitting the shopper’s info "
+"to your smoove account."
+msgstr ""
+
+#: inc/admin/settings.php:112 inc/admin/settings.php:131
+msgid "Restore"
+msgstr "לשחזר"
+
+#: inc/post-types.php:22
+msgid "Search Abandoned Cart"
+msgstr "חיפוש עגלה נטושה"
+
+#: inc/post-types.php:66
+msgid "Search Temp Cart"
+msgstr "חיפוש עגלה זמנית"
+
+#: inc/admin/lists.php:29
+msgid "Sent to Smoove"
+msgstr "נשלח ל-Smoove"
+
+#: inc/admin/settings.php:307
+msgid "Server response will appear here"
+msgstr "תגובת השרת תופיע כאן"
+
+#: inc/admin/settings.php:18
+msgid "Settings"
+msgstr "הגדרות"
+
+#. Author of the plugin
+msgid "Smoove"
+msgstr ""
+
+#. Name of the plugin
+#: smoove-abandoned-cart-trigger-for-woocommerce.php:45
+msgid "Smoove abandoned cart trigger for WooCommerce"
+msgstr ""
+
+#: inc/admin/settings.php:19
+msgid "Smoove Settings"
+msgstr "הגדרות Smoove"
+
+#: inc/admin/lists.php:30
+msgid "Smoove Status"
+msgstr "סטטוס Smoove"
+
+#: inc/api.php:36
+msgid "Something went wrong."
+msgstr "משהו השתבש."
+
+#: inc/post-types.php:60
+msgctxt "Temp Cart"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:65
+msgid "Temp Carts"
+msgstr "עגלות זמניות"
+
+#: inc/admin/settings.php:304
+msgid "Test"
+msgstr "בדיקה"
+
+#: inc/admin/settings.php:284
+msgid ""
+"Test the connection between the plugin and your Smoove account by entering a "
+"contact’s email (can be \"dummy\" email) and press \"Test\". A successful "
+"test will result with the contact info in your Smoove account."
+msgstr ""
+"בדקו את התקשורת בין התוסף לחשבון Smoove שלכם ע\"י הזנת כתובת אימייל של אישר "
+"קשר כלשהו (אפשר להזין כתובת דמה) ולחיצה על \"בדיקה\". בדיקה תקינה תציג את "
+"פרטי איש הקשר בחשבון חשבון Smoove שלכם."
+
+#: inc/admin/settings.php:102
+msgid "Unsubscribed contact action"
+msgstr "פעולה עבור איש קשר שנמצא בחסומים"
+
+#: inc/post-types.php:20
+msgid "View Abandoned Cart"
+msgstr "צפה בעגלה נטושה"
+
+#: inc/post-types.php:64
+msgid "View Temp Cart"
+msgstr "צפה בעגלה זמנית"
+
+#: inc/admin/lists.php:116 inc/admin/settings.php:150
+msgid "Yes"
+msgstr "כן"
+
+#: inc/admin/settings.php:166
+msgid "You should add Email/SMS communication consent to the terms of use"
+msgstr "יש להוסיף לתנאי השימוש אישור קבלת חומרים שיווקים"
